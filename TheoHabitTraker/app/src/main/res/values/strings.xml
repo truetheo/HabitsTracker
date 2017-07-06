@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TheoHabitTraker</string>
+    <string name="table_name">habits</string>
+    <string name="database_name">habits.db</string>
+    <string name="column_name">name</string>
+    <string name="column_hours">hours per week</string>
+    <string name="column_frequency">frequency</string>
+    <string name="work_name_dummy">Full Time Job</string>
+
+</resources>
